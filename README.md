@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Vladimir 👋
 
-<!--
-**vladbrain/vladbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer in progress, building production-style data pipelines and scalable data systems.
 
-Here are some ideas to get you started:
+Currently focused on:
+- ETL & ELT pipelines
+- Airflow orchestration
+- Incremental data processing
+- PostgreSQL & SQL modeling
+- Dockerized data environments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### GitHub ETL Data Pipeline
+Production-style ETL pipeline built with Airflow.
+
+Features:
+- REST API ingestion (GitHub API)
+- Incremental processing via watermark
+- Idempotent upserts
+- Data quality validation
+- Analytics mart (daily PR metrics)
+- Fully containerized with Docker
+
+Tech Stack:
+Python · Airflow · PostgreSQL · Docker · REST APIs
+
+Repository:
+👉 https://github.com/vladbrain/github-etl-airflow
+
+---
+
+## 📈 What I'm Working Toward
+
+My goal is to become a strong Data Engineer capable of designing:
+
+- Scalable cloud data pipelines
+- Distributed processing systems (Spark)
+- Data lake & warehouse architectures
+- Reliable production workflows
+
+Building every project like it's going to production.
+
+---
+
+## 🛠 Tech Stack
+
+Python  
+SQL  
+PostgreSQL  
+Airflow  
+Docker  
+Git  
+
+Next: Spark · AWS · Distributed Systems
+
+---
+
+## 👤 About Me
+
+Former Applied Mathematics & Informatics graduate (2012).  
+Currently working in the US and transitioning fully into Data Engineering.
+
+On a mission to become a **Data Engineer pro** 💪
